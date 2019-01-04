@@ -1,7 +1,7 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: January 04, 2019</p>
+<p>Effective date: January 01, 2019</p>
 
 <p>The developers of the Barometer mobile application ("us", "we", or "our") operates the Barometer mobile application (hereinafter referred to as the "Service").</p>
 
@@ -67,8 +67,4 @@
 
 
 <h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us:</p>
-<ul>
-            <li>By visiting this page on our website: https://barometer.justinchuby.com</li>
-      
-</ul>
+<p>If you have any questions about this Privacy Policy, please contact us by visiting this page on our website: https://barometer.justinchuby.com
