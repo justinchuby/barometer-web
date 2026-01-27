@@ -111,7 +111,8 @@ title: Barometer for Watch
 </style>
 
 <div class="hero">
-  <h1>⏱ Barometer for Watch</h1>
+  <img src="icon.png" alt="Barometer App Icon" class="app-icon">
+  <h1>Barometer for Watch</h1>
   <p class="tagline">Atmospheric pressure right on your wrist</p>
   <a href="https://apps.apple.com/us/app/barometer-for-watch/id1448485995" class="appstore-badge">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
